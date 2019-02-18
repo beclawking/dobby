@@ -3,8 +3,8 @@ const botSettings = require("./botsettings.json");
 const prefix = botSettings.prefix;
 const Bot = new Discord.Client();
 
-//Bot.login(process.env.BOT_TOKEN);
-Bot.login("");
+Bot.login(process.env.BOT_TOKEN);
+//Bot.login("");
 
 
 //Listener Event: Bot Gestartet
