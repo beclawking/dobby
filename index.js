@@ -25,7 +25,7 @@ Bot.on('guildMemberAdd', member => {
     console.log('User ' + member.user.username + 'has joined the server!') //Send a message to the console that someone joined the discord server.
 
     //Now lets add role when they join. First, we need to get the role we want.
-    var role = member.guild.roles.find('name', 'Raccrew'); // This looks for the role in the server(guild), it searches by name, meaning you can change 'user' to the role you want!
+    var role = member.guild.roles.find('name', 'Muggel'); // This looks for the role in the server(guild), it searches by name, meaning you can change 'user' to the role you want!
     
     //Secondly, we will add the role
     member.addRole(role)
@@ -42,7 +42,7 @@ Bot.on("message", function(message) {
     switch (args[0].toLowerCase()) {
 case "switch": 
 const member = message.author;
-message.member.sendMessage("Du möchtest online auf der Switch mit Sirion spielen? Dann füge sie deiner Freundesliste hinzu! :eyes: SW-1625-5239-9402");
+message.member.sendMessage("Hallo");
 message.delete();
 break;
     }
