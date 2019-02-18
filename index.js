@@ -4,7 +4,7 @@ const prefix = botSettings.prefix;
 const Bot = new Discord.Client();
 
 //Bot.login(process.env.BOT_TOKEN);
-Bot.login("NTQxMjUyNTIwNjY0NzYwMzIw.Dzc07A.DGKDae-ly0ZvjH5Bq0mk9rSvXic");
+Bot.login("");
 
 
 //Listener Event: Bot Gestartet
