@@ -18,6 +18,15 @@ Discord-Bot der verschiedene Funktionen erfüllt.
 * Node Modules
   * discord.js         | Version:^11.4.2
   * colors    | Version:^1.1.2
+  
+## How to install Node Modules
+**NodeJS must be installed!**
+
+#### Discord.js
+* npm install discord.js
+
+#### Colors
+* npm install colors
 
 ### Config
 * Prefix: "!" (Standard-Prefix)
