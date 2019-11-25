@@ -9,7 +9,7 @@ Discord-Bot der verschiedene Funktionen erfüllt.
 1. [Dependencies / Node modules](https://github.com/leonshrederplays/dobby/blob/master/README.md#dependencies--node-modules)
 2. [How to install Node Modules](https://github.com/leonshrederplays/dobby/blob/master/README.md#how-to-install-node-modules)
     * [Discord.js](https://github.com/leonshrederplays/dobby/blob/master/README.md#discordjs)
-    * [Colors](https://github.com/leonshrederplays/dobby/blob/master/README.md#ffmpeg-binaries)
+    * [Colors](https://github.com/leonshrederplays/dobby/blob/master/README.md#colors)
 3. [Config](https://github.com/leonshrederplays/dobby/blob/master/README.md#config)
 4. [Commands](https://github.com/leonshrederplays/dobby/blob/master/README.md#commands)
     * [Ping](https://github.com/leonshrederplays/dobby/blob/master/README.md#ping)
