@@ -12,7 +12,7 @@ Discord-Bot der verschiedene Funktionen erfüllt.
     * [Colors](https://github.com/leonshrederplays/dobby/blob/master/README.md#colors)
 3. [Config](https://github.com/leonshrederplays/dobby/blob/master/README.md#config)
 4. [Commands](https://github.com/leonshrederplays/dobby/blob/master/README.md#commands)
-    * [Ping](https://github.com/leonshrederplays/dobby/blob/master/README.md#ping)
+    * [Switch](https://github.com/leonshrederplays/dobby/blob/master/README.md#switch)
 
 ### Dependencies / Node modules
 * Node Modules
